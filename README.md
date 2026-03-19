@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**rainasabita/rainasabita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="_About_Me_0"></a>💫 About Me:</h1>
+<p class="has-line-data" data-line-start="1" data-line-end="2">Hi, I’m Raina Sabita! &lt;br&gt;Junior Frontend Developer | High-Conversion Landing Pages&lt;br&gt;I am an 18-year-old developer and an incoming Computer Science student. As a fresh graduate from Vocational High School (SMK), I combine technical logic with creative design to build clean, functional, and responsive web experiences.&lt;br&gt;&lt;br&gt;I pride myself on being a clear and proactive communicator. I believe that great projects start with a clear understanding of the client’s goals, and I am dedicated to keeping you updated throughout every step of the development process.&lt;br&gt;&lt;br&gt;🛠 Tech Stack&lt;br&gt;Languages: HTML5, CSS3, JavaScript (ES6+), Python&lt;br&gt;&lt;br&gt;Tools: VS Code, Git &amp; GitHub, Opera DevTools&lt;br&gt;&lt;br&gt;Design: Canva (for UI Mockups &amp; Assets)&lt;br&gt;&lt;br&gt;Featured Projects&lt;br&gt;Project Name - Web Development&lt;br&gt;A responsive web project focused on clean UI and seamless user experience.&lt;br&gt;&lt;br&gt;Key Features: Mobile-first design and interactive elements.&lt;br&gt;&lt;br&gt;Tech: Vanilla JS, CSS Flexbox &amp; Grid.&lt;br&gt;&lt;br&gt;My Learning Roadmap&lt;br&gt;I am committed to continuous improvement as I start my academic journey:&lt;br&gt;&lt;br&gt;Deep diving into React.js and Tailwind CSS for modern web apps.&lt;br&gt;&lt;br&gt;Mastering Computer Science fundamentals to build a solid professional career.&lt;br&gt;&lt;br&gt;Let’s Connect!&lt;br&gt;I am open to collaborations, junior freelance projects, or professional discussions!&lt;br&gt;&lt;br&gt;Primary Channel: <a href="https://www.upwork.com/freelancers/~01542dca71eff78a8f?mp_source=share">https://www.upwork.com/freelancers/~01542dca71eff78a8f?mp_source=share</a>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;“Small steps every day lead to big results.”</p>
+<h1 class="code-line" data-line-start=4 data-line-end=5 ><a id="_Tech_Stack_4"></a>💻 Tech Stack:</h1>
+<p class="has-line-data" data-line-start="5" data-line-end="6"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion"></p>
+<h1 class="code-line" data-line-start=6 data-line-end=7 ><a id="_GitHub_Stats_6"></a>📊 GitHub Stats:</h1>
+<p class="has-line-data" data-line-start="7" data-line-end="10"><img src="https://github-readme-stats.vercel.app/api?username=rainasabita&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">&lt;br/&gt;<br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=rainasabita&amp;theme=dark&amp;hide_border=false" alt="">&lt;br/&gt;<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainasabita&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<hr>
+<p class="has-line-data" data-line-start="12" data-line-end="13"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rainasabita&amp;icon=9&amp;color=0" alt=""></a></p>
