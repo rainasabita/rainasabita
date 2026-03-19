@@ -25,6 +25,7 @@ Let's Connect!
 I am open to collaborations, junior freelance projects, or professional discussions!
 
 Primary Channel: https://www.upwork.com/freelancers/~01542dca71eff78a8f?mp_source=share
+
 "Small steps every day lead to big results."
 
 
